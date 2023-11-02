@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+"Hello"
+"Bye"
+=======
+>>>>>>> parent of 2d3f909 (C)
